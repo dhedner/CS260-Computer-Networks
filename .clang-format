@@ -1,0 +1,14 @@
+﻿---
+BasedOnStyle: Microsoft
+AccessModifierOffset: '-4'
+AlwaysBreakTemplateDeclarations: 'Yes'
+ColumnLimit: '100'
+PointerAlignment: Left
+TabWidth: '4'
+StatementMacros: ['TEST_CLASS', 'TEST_METHOD']
+BinPackArguments: false
+BinPackParameters: false
+IndentWidth: 4
+ContinuationIndentWidth: 4
+AlignAfterOpenBracket: 'AlwaysBreak'
+...
